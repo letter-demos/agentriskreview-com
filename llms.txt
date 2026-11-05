@@ -1,0 +1,25 @@
+# Agent Risk Review
+
+> Agent Risk Review provides independent risk evaluation and compliance reporting services for insurance agents, brokers, and agencies seeking to strengthen their underwriting credibility and demonstrate accountability to carriers and clients alike.
+
+## Product
+
+- [Product](https://agentriskreview.com/product.html): What Agent Risk Review makes and who it is for.
+
+## Pricing
+
+- [Pricing](https://agentriskreview.com/pricing.html): Plans and pricing for Agent Risk Review.
+
+## Guides
+
+- [Blog](https://agentriskreview.com/blog/index.html): Notes from the Agent Risk Review team.
+- [Why Carriers Are Scrutinizing Agent Compliance Records More Than Ever](https://agentriskreview.com/blog/why-carriers-are-scrutinizing-agent-compliance-rec.html): Carrier underwriting standards for agent appointments have tightened considerably over the past three years. Here is what is driving the change and what agents can do to stay ahead of it.
+- [The E&O Coverage Gap That Is Quietly Costing Agents Carrier Appointments](https://agentriskreview.com/blog/the-e-o-coverage-gap-that-is-quietly-costing-agent.html): A lapse in errors and omissions coverage, even a brief one, can raise serious red flags during carrier review. Here is what agents need to know about continuity and how to document it properly.
+- [Multi-State Licensing: How Agencies Can Keep Compliance from Becoming a Full-Time Job](https://agentriskreview.com/blog/multi-state-licensing-how-agencies-can-keep-compli.html): Operating across multiple states means managing multiple renewal cycles, different regulatory requirements, and an ever-changing landscape of continuing education rules. There is a smarter way to handle it.
+- [What Independent Agents Can Learn from the Way Carriers Think About Risk](https://agentriskreview.com/blog/what-independent-agents-can-learn-from-the-way-car.html): Understanding how underwriters evaluate agents, not just the policies agents write, can fundamentally change how you present yourself and your agency to prospective carrier partners.
+
+## Company
+
+- [About Agent Risk Review](https://agentriskreview.com/about.html): The story and values behind Agent Risk Review.
+- [Customers](https://agentriskreview.com/customers.html): What customers say about Agent Risk Review.
+- [Contact](https://agentriskreview.com/contact.html): How to reach Agent Risk Review.
