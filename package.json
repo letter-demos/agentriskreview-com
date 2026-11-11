@@ -1,0 +1,8 @@
+{
+  "name": "agentriskreview.com",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/generate-llms-txt.mjs"
+  }
+}
