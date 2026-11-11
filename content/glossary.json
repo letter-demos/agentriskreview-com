@@ -1,0 +1,102 @@
+{
+  "collection": "Glossary",
+  "fields": [
+    "title",
+    "slug",
+    "definition",
+    "body",
+    "related"
+  ],
+  "entries": [
+    {
+      "title": "Carrier Appointment",
+      "slug": "carrier-appointment",
+      "definition": "A carrier appointment is the formal authorization an insurance company gives a licensed producer to sell and service its policies.",
+      "body": [
+        "A carrier appointment is the formal authorization an insurance company grants a licensed producer or agency to solicit, sell and service its policies. Holding a state license makes an agent eligible to sell insurance; an appointment is what connects that agent to a specific carrier's products.",
+        "Before granting an appointment, carriers review the applicant's licensing status, disciplinary history, errors and omissions coverage and, for established agencies, past production and loss experience. In many states the carrier must also file the appointment with the state insurance department, and appointments can be terminated by either side.",
+        "Because carriers are reviewing agent compliance records more closely, gaps in documentation are a common reason appointments are delayed or declined. A complete, independently verified file gives the carrier fewer open questions to resolve."
+      ],
+      "related": [
+        "producer-license",
+        "errors-and-omissions-insurance"
+      ],
+      "service": {
+        "name": "Carrier Submission Package",
+        "href": "../product.html"
+      }
+    },
+    {
+      "title": "Errors and Omissions (E&O) Insurance",
+      "slug": "errors-and-omissions-insurance",
+      "definition": "Errors and omissions insurance is professional liability coverage that protects agents and agencies against claims of mistakes or negligence in their work.",
+      "body": [
+        "Errors and omissions (E&O) insurance is professional liability coverage for insurance agents, brokers and agencies. It responds to claims that a producer made a mistake, gave inadequate advice or failed to do something they should have, such as placing the wrong coverage or missing a renewal.",
+        "Most carriers require proof of E&O coverage, at minimum limits they set, before granting or renewing an appointment. Many also look at continuity: a lapse in coverage, even a short one, can prompt additional questions during carrier review.",
+        "Agents should keep declarations pages, effective and expiration dates and renewal confirmations for every E&O policy they have held, so coverage history can be shown rather than simply stated."
+      ],
+      "related": [
+        "carrier-appointment",
+        "binding-authority"
+      ],
+      "service": {
+        "name": "Agency Compliance Baseline Report",
+        "href": "../product.html"
+      }
+    },
+    {
+      "title": "Binding Authority",
+      "slug": "binding-authority",
+      "definition": "Binding authority is the power a carrier grants an agent to put coverage into effect on the carrier's behalf, within set limits.",
+      "body": [
+        "Binding authority is the power a carrier grants an agent or agency to put coverage into effect on the carrier's behalf, without waiting for the carrier to approve each risk individually. The scope is spelled out in the agency agreement or a separate binding authority agreement.",
+        "That agreement typically limits which lines, classes of business, territories and policy limits the agent may bind. Binding outside those limits exposes the carrier to risks it did not agree to underwrite, and it is one of the faster ways for an agency to lose an appointment or have its authority restricted.",
+        "Carriers reviewing an agency often ask how binding authority is used and controlled in practice. Clear internal procedures and records of adherence to each agreement help answer that question."
+      ],
+      "related": [
+        "carrier-appointment",
+        "loss-ratio"
+      ],
+      "service": {
+        "name": "Agency Compliance Baseline Report",
+        "href": "../product.html"
+      }
+    },
+    {
+      "title": "Producer License",
+      "slug": "producer-license",
+      "definition": "A producer license is the state-issued license that allows an individual or agency to sell, solicit or negotiate insurance in that state.",
+      "body": [
+        "A producer license is the license a state insurance department issues to an individual or business entity, allowing it to sell, solicit or negotiate insurance in that state. Licenses are issued by line of authority, such as property and casualty or life and health.",
+        "An agent licensed in their home state holds a resident license and needs a non-resident license in each additional state where they do business. Each license carries its own renewal date, continuing education requirements and fees, which is why multi-state compliance can become hard to track.",
+        "A license is a prerequisite for a carrier appointment, and carriers verify that licenses are active for every state and line an agent intends to write."
+      ],
+      "related": [
+        "carrier-appointment",
+        "errors-and-omissions-insurance"
+      ],
+      "service": {
+        "name": "Ongoing Risk Monitoring Subscription",
+        "href": "../product.html"
+      }
+    },
+    {
+      "title": "Loss Ratio",
+      "slug": "loss-ratio",
+      "definition": "Loss ratio is the share of premium a carrier pays out in claims, and one of the measures carriers use to judge the quality of an agent's book.",
+      "body": [
+        "Loss ratio is the amount an insurer pays in claims, often including claim adjustment expenses, divided by the premium it earns, expressed as a percentage. A book of business that earns $100,000 in premium and incurs $60,000 in losses has a 60% loss ratio.",
+        "Carriers track loss ratios by agent and agency as a measure of how well a producer selects and places risks. A consistently high loss ratio can lead a carrier to restrict an agent's binding authority or end an appointment, while a stable, favourable trend supports requests to expand into new lines.",
+        "Looking at the trend over several years tells a carrier more than a single year's figure, since one large claim can distort a short period."
+      ],
+      "related": [
+        "binding-authority",
+        "carrier-appointment"
+      ],
+      "service": {
+        "name": "Producer Risk Profile",
+        "href": "../product.html"
+      }
+    }
+  ]
+}
